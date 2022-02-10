@@ -1,6 +1,16 @@
 <div id="openweathermap-widget-11"></div>
 <script src='//openweathermap.org/themes/openweathermap/assets/vendor/owm/js/d3.min.js'></script><script>window.myWidgetParam ? window.myWidgetParam : window.myWidgetParam = [];  window.myWidgetParam.push({id: 11,cityid: '2172389',appid: '2b68180e12502df5d43acba59d0e8e72',units: 'metric',containerid: 'openweathermap-widget-11',  });  (function() {var script = document.createElement('script');script.async = true;script.charset = "utf-8";script.src = "//openweathermap.org/themes/openweathermap/assets/vendor/owm/js/weather-widget-generator.js";var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(script, s);  })();</script>
 
+....
+
+
+
+
+lk
+
+<iframe src="http://www.bom.gov.au/products/IDR403.loop.shtml" style="width: 400px; height: 200px;"></iframe>
+
+
 
 https://ccrfs.info/fdr2/fdrxml.php?region=4′ width=450px height=280px frameborder=0
 
