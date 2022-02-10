@@ -35,3 +35,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+<div id="wwo-weather-widget-3"></div><script type='text/javascript' src='https://www.worldweatheronline.com/widget/v5/weather-widget.ashx?loc=129245&wid=3&tu=1&div=wwo-weather-widget-3' async></script><noscript><a href="https://www.worldweatheronline.com/captains-flat-weather/new-south-wales/au.aspx" alt="Hour by hour Captains Flat, New South Wales weather">Captains Flat, New South Wales weather forecast hourly</a></noscript>
+
+
+
